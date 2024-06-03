@@ -1,0 +1,1 @@
+This directory contains AirBnB_clone_v2 projects
